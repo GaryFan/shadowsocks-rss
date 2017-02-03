@@ -1,6 +1,6 @@
 # ShadowsocksR C# 版本4.1.0 #
 
-获取告诉ShadowsocksR账号：http://www.nap6.vip
+获取高速ShadowsocksR账号：http://www.nap6.vip
 
 ZeroNet:[shadowsocksr.bit](http://127.0.0.1:43110/shadowsocksr.bit)  
 BitTorrent Sync：BHS55LP54SO7A434QBB5Z2O6B7A45B2BX  
